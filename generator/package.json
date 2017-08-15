@@ -1,7 +1,7 @@
 {
   "name": "podcast-feeds",
   "version": "1.0.0",
-  "description": "This is a repo to host a few podcast feeds for some audio files on the internet that don't have podcast feeds attached. This repo also hosts the source code to generate the feeds.",
+  "description": "This repo has code to generate podcast feeds for some audio files on the internet that don't have podcast feeds.",
   "main": "generator/index.js",
   "private": true,
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ArtskydJ/podcast-feeds#readme",
   "dependencies": {
-    "podcast": "^0.2.2"
+    "podcast2": "^0.3.0"
   }
 }
