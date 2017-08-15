@@ -1,0 +1,67 @@
+{
+	"feed": {
+		"title": "Govorning God's Way 2016",
+		"description": "",
+		"author": "Dr. Phillip Kayser, Rep. David Simpson, Peter Allison, Rep. Steve Toth",
+		"site_url": "https://governinggodsway.com/",
+		"IMAGE_FILE": "./governing-gods-way.png",
+	},
+
+	"episodes": [
+		{
+			"title": "Should Christians be Involved in Politics?",
+			"description": "",
+			"url": "https://governinggodsway.com/media/#mep_0",
+			"guid": "fff743ec-32fa-42df-b12e-fe31010b8735",
+			"author": "Dr. Phillip Kayser",
+			"enclosure": {
+				"url": "https://governinggodswaycom.files.wordpress.com/2016/09/cc-should-christians-be-involved-in-politics-09232016-786ac24.mp3?_=1"
+			}
+		}, {
+			"title": "The Temptations of Magistrates",
+			"description": "",
+			"url": "https://governinggodsway.com/media/#mep_1",
+			"guid": "d2abdf19-36b5-4e92-b84e-b00e9dd3c9ed",
+			"author": "Representative David Simpson",
+			"enclosure": {
+				"url": "https://governinggodswaycom.files.wordpress.com/2016/09/cc-the-temptations-of-magistrates-09232016-02f9514.mp3?_=2"
+			}
+		}, {
+			"title": "Third Party Voting: Wasted or Wise?",
+			"DESCRIPTION_FILE": "./3-we-should-never-edit-god-handout.html",
+			"url": "https://governinggodsway.com/media/#mep_2",
+			"guid": "c1afa7af-3716-463e-9cf6-c081d6bcad5c",
+			"author": "Peter Allison",
+			"enclosure": {
+				"url": "https://governinggodswaycom.files.wordpress.com/2016/09/cc-third-party-voting-wasted-or-wise-09242016-df827d1.mp3?_=3"
+			}
+		}, {
+			"title": "We Should Never Edit God",
+			"description": "",
+			"url": "https://governinggodsway.com/media/#mep_3",
+			"guid": "1ad8d7b4-cf8b-4aa9-a18d-ff037f51f9f7",
+			"author": "Dr. Phillip Kayser",
+			"enclosure": {
+				"url": "https://governinggodswaycom.files.wordpress.com/2016/09/cc-we-should-never-edit-god-09242016-60f9b8a.mp3?_=4"
+			}
+		}, {
+			"title": "The Profile of a Good Legislator",
+			"description": "",
+			"url": "https://governinggodsway.com/media/#mep_4",
+			"guid": "82e5af59-e14c-4509-8459-73a10829c06d",
+			"author": "Representative Steve Toth",
+			"enclosure": {
+				"url": "https://governinggodswaycom.files.wordpress.com/2016/09/cc-the-profile-of-a-good-legislator-09252016-10769d4.mp3?_=5"
+			}
+		}, {
+			"title": "Covenanted Christian Voters",
+			"description": "",
+			"url": "https://governinggodsway.com/media/#mep_5",
+			"guid": "8550e013-b033-4700-aed6-3f230063e767",
+			"author": "Peter Allison",
+			"enclosure": {
+				"url": "https://governinggodswaycom.files.wordpress.com/2016/09/cc-covenanted-christian-voters-09242016-4283241.mp3?_=6"
+			}
+		}
+	]
+}

@@ -1,0 +1,24 @@
+auto generate:
+{
+	"feed_url": (https://artskydj.github.io/podcast-feeds/rss/whatever.rss)
+	"image_url": (resolve a relative url for IMAGE_FILE)
+	"managingEditor": "Joseph Dykstra <josephdykstra@gmail.com> (http://www.josephdykstra.com)",
+	"webMaster": "Joseph Dykstra <josephdykstra@gmail.com> (http://www.josephdykstra.com)",
+	"language": "en-US",
+	"pubDate": "2017-08-14",
+	"itunesAuthor": (author),
+	"itunesSubtitle": (description),
+	"itunesSummary": (description),
+	"itunesOwner": {"name": "Joseph Dykstra", "email": "josephdykstra@gmail.com" },
+	"itunesExplicit": false,
+	"itunesCategory": [ { "text": (category[n]), subcats:[] }],
+	"itunesImage": (resolved image_url)
+}
+
+auto generate for each feed item: (episode)
+{
+	"description": (get the contents of DESCRIPTION_FILE),
+	"itunesAuthor": (item.author || feed.itunesAuthor),
+	"itunesSubtitle": (title),
+	"itunesDuration": (maybe)
+}
