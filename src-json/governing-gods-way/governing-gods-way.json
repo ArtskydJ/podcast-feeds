@@ -28,7 +28,7 @@
 			}
 		}, {
 			"title": "Third Party Voting: Wasted or Wise?",
-			"DESCRIPTION_FILE": "./3-we-should-never-edit-god-handout.html",
+			"description": "",
 			"url": "https://governinggodsway.com/media/#mep_2",
 			"guid": "c1afa7af-3716-463e-9cf6-c081d6bcad5c",
 			"author": "Peter Allison",
@@ -37,7 +37,7 @@
 			}
 		}, {
 			"title": "We Should Never Edit God",
-			"description": "",
+			"DESCRIPTION_FILE": "./3-we-should-never-edit-god-handout.html",
 			"url": "https://governinggodsway.com/media/#mep_3",
 			"guid": "1ad8d7b4-cf8b-4aa9-a18d-ff037f51f9f7",
 			"author": "Dr. Phillip Kayser",
