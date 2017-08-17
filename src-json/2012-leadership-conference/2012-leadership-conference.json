@@ -1,0 +1,74 @@
+{
+	"feed": {
+		"title": "DCC Leadership Conference",
+		"description": "",
+		"author": "Dr. Phillip Kayser",
+		"site_url": "http://www.dominioncovenantchurch.com/sermons/2012-leadership-conference/",
+		"image_url": "https://biblicalblueprints.org/wp-content/uploads/2015/07/LeaderDevelopment_Thumbnail-275x370.png",
+	},
+
+	"episodes": [{
+		"title": "DCC Leadership Conf. Part 1",
+		"description": "",
+		"url": "http://www.dominioncovenantchurch.com/sermons/2012-leadership-conference/#part_1",
+		"guid": "2040ea2e-4e8a-4db4-981f-2175a19eb4eb",
+		"author": "Dr. Phillip Kayser",
+		"enclosure": {
+			"url": "http://www.dominioncovenantchurch.com/wp-content/uploads/2012/03/01-Leadership-Conference-01.mp3"
+		}
+	}, {
+		"title": "DCC Leadership Conf. Part 2",
+		"description": "",
+		"url": "http://www.dominioncovenantchurch.com/sermons/2012-leadership-conference/#part_2",
+		"guid": "57efaa96-dedf-4a88-bcc3-d41797d9f2f4",
+		"author": "Dr. Phillip Kayser",
+		"enclosure": {
+			"url": "http://www.dominioncovenantchurch.com/wp-content/uploads/2012/03/02-Leadership-Conference-02.mp3"
+		}
+	}, {
+		"title": "DCC Leadership Conf. Part 3",
+		"description": "",
+		"url": "http://www.dominioncovenantchurch.com/sermons/2012-leadership-conference/#part_3",
+		"guid": "47798636-ce9a-411e-931e-ba1583a44e74",
+		"author": "Dr. Phillip Kayser",
+		"enclosure": {
+			"url": "http://www.dominioncovenantchurch.com/wp-content/uploads/2012/03/03-Leadership-Conference-03.mp3"
+		}
+	}, {
+		"title": "DCC Leadership Conf. Part 4",
+		"description": "",
+		"url": "http://www.dominioncovenantchurch.com/sermons/2012-leadership-conference/#part_4",
+		"guid": "5ee44158-5d44-4210-b12a-07d84b7d3a2f",
+		"author": "Dr. Phillip Kayser",
+		"enclosure": {
+			"url": "http://www.dominioncovenantchurch.com/wp-content/uploads/2012/03/04-Leadership-Conference-04.mp3"
+		}
+	}, {
+		"title": "DCC Leadership Conf. Part 5",
+		"description": "",
+		"url": "http://www.dominioncovenantchurch.com/sermons/2012-leadership-conference/#part_5",
+		"guid": "d2055304-31f8-4299-b450-6b0d31e15ebd",
+		"author": "Dr. Phillip Kayser",
+		"enclosure": {
+			"url": "http://www.dominioncovenantchurch.com/wp-content/uploads/2012/03/05-Leadership-Conference-05.mp3"
+		}
+	}, {
+		"title": "DCC Leadership Conf. Part 6",
+		"description": "",
+		"url": "http://www.dominioncovenantchurch.com/sermons/2012-leadership-conference/#part_6",
+		"guid": "0ac96bc9-1069-4f74-b7dc-63fba743dfdb",
+		"author": "Dr. Phillip Kayser",
+		"enclosure": {
+			"url": "http://www.dominioncovenantchurch.com/wp-content/uploads/2012/03/06-Leadership-Conference-06.mp3"
+		}
+	}, {
+		"title": "DCC Leadership Conf. Part 7",
+		"description": "",
+		"url": "http://www.dominioncovenantchurch.com/sermons/2012-leadership-conference/#part_7",
+		"guid": "e2be7183-1017-4293-894a-bd1943053d83",
+		"author": "Dr. Phillip Kayser",
+		"enclosure": {
+			"url": "http://www.dominioncovenantchurch.com/wp-content/uploads/2012/03/07-Leadership-Conference-07.mp3"
+		}
+	}]
+}
