@@ -1,0 +1,1 @@
+node -p "require('./generator/index.js')('governing-gods-way')"

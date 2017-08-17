@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ArtskydJ/podcast-feeds#readme",
   "dependencies": {
-    "podcast2": "^0.3.0"
+    "podcast2": "^0.3.0",
+    "xtend": "^4.0.1"
   }
 }
